@@ -2,7 +2,7 @@
 
 ### AI-Powered Agricultural Assistant
 
-AgroBridge-AI is an AI-powered, voice-enabled agricultural 
+Nokubi is an AI-powered, voice-enabled agricultural 
 assistant guiding smallholder farmers through crop lifecycles 
 to mitigate post-harvest losses.
 
@@ -10,7 +10,7 @@ to mitigate post-harvest losses.
 
 ## Project Overview
 
-AgroBridge-AI aims to empower small holder farmers with 
+Nokubi aims to empower small holder farmers with 
 accessible AI-driven agricultural guidance.
 
 The platform will provide voice-enabled assistance, helping 
@@ -28,7 +28,7 @@ post-harvest management.
 
 ## Project Structure
 
-AgroBridge-AI/
+Nokubi/
 │
 ├── backend/
 │   └── Python and API logic
