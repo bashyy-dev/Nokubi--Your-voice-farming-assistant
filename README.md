@@ -1,4 +1,4 @@
-# AgroBridge-AI 
+# Nokubi -  Your voice farming assistant
 
 ### AI-Powered Agricultural Assistant
 
