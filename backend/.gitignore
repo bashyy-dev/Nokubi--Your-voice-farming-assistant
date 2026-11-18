@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+.pytest_cache/
+
+data/vector_store/*
+!data/vector_store/.gitkeep
+
+.DS_Store
